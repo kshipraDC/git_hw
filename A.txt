@@ -3,3 +3,5 @@ Have never got a chance to work with terminal and git before.
 I had heard a lot about it though..
 And i am happy that i started to work on it.
 
+Update: I have created 3 files in github till now.
+I feel good that i am learning
